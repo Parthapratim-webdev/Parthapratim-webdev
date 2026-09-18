@@ -1,5 +1,7 @@
 <h1 align="center">
-  ⚙️ < Hey, I'm Partha Pratim Mallick /> ⚙️
+  <img src="./animated_coder_sign.gif" width="70">
+  Hey, I'm Partha Pratim Mallick
+  <img src="./animated_coder_sign.gif" width="70">
 </h1>
 
 <h3 align="center">
