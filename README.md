@@ -25,9 +25,9 @@ problem solving, and real-world projects.
 
 ---
 
-<div align="center">
-  <img src="./animation.gif" width="650" alt="Coding Animation">
-</div>
+<p align="center">
+  <img src="./github_coding_animation.gif" width="650" alt="Coding Animation">
+</p>
 
 ---
 
