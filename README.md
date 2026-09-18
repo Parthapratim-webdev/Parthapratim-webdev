@@ -25,6 +25,10 @@ problem solving, and real-world projects.
 
 ---
 
+<div align="center">
+  <img src="./animation.gif" width="650" alt="Coding Animation">
+</div>
+
 ## 🏆 Achievements
 
 - 💻 Solved 300+ DSA problems on LeetCode
