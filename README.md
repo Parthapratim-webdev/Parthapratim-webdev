@@ -23,8 +23,6 @@ participating in hackathons, and learning new technologies.
 Currently, I'm focusing on Full Stack Development,
 problem solving, and real-world projects.
 
----
-
 <h2 align="center">💻 Code. Create. Innovate. 🚀</h2>
 
 <p align="center">
@@ -32,6 +30,7 @@ problem solving, and real-world projects.
        alt="Boy coding at a computer"
        width="400">
 </p>
+<a href="https://iconscout.com/lottie-animations/coder" class="text-underline font-size-sm" target="_blank">Coder doing coding on laptop</a> by <a href="https://iconscout.com/contributors/vector-stall" class="text-underline font-size-sm">Vector Stall</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
 ---
 
 ## 🏆 Achievements
