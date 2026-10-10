@@ -25,10 +25,13 @@ problem solving, and real-world projects.
 
 ---
 
-<p align="center">
-  <img src="./github_coding_animation.gif" width="650" alt="Coding Animation">
-</p>
+<h2 align="center">💻 Code. Create. Innovate. 🚀</h2>
 
+<p align="center">
+  <img src="./coding-boy.gif"
+       alt="Boy coding at a computer"
+       width="400">
+</p>
 ---
 
 ## 🏆 Achievements
