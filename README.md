@@ -48,6 +48,7 @@ problem solving, and real-world projects.
 
 <h2 align="center">💻 Coding in Progress</h2>
 
+<img width="900" height="600" alt="coding-boy" src="https://github.com/user-attachments/assets/ebe7158a-668a-4c80-9a0f-784f65f047be" />
 <p align="center">
   <img src="./coding-boy.gif"
        alt="Developer coding on a laptop"
