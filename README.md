@@ -46,12 +46,12 @@ problem solving, and real-world projects.
 
 <h2 align="center">💻 Code. Create. Innovate. 🚀</h2>
 
+<h2 align="center">💻 Coding in Progress</h2>
+
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/coding-boy.png"
-    width="750"
-    alt="Boy coding on a laptop"
-  />
+  <img src="./coding-boy.gif"
+       alt="Developer coding on a laptop"
+       width="750">
 </p>
 
 ## 🏆 Achievements
