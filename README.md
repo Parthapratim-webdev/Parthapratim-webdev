@@ -46,9 +46,13 @@ problem solving, and real-world projects.
 
 <h2 align="center">💻 Code. Create. Innovate. 🚀</h2>
 
-<h2 align="center">💻 Coding in Progress</h2>
-
-https://chatgpt.com/s/m_6acd20c2a2b48191a1df4818157690c4
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/coding-boy.png"
+    width="750"
+    alt="Boy coding on a laptop"
+  />
+</p>
 
 ## 🏆 Achievements
 
