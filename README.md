@@ -48,9 +48,7 @@ problem solving, and real-world projects.
 
 <h2 align="center">💻 Coding in Progress</h2>
 
-<p align="center">
-  <img src="./coding-boy.png" width="750" alt="Developer coding on a laptop">
-</p>
+https://chatgpt.com/s/m_6acd20c2a2b48191a1df4818157690c4
 
 ## 🏆 Achievements
 
