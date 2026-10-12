@@ -46,13 +46,11 @@ problem solving, and real-world projects.
 
 <h2 align="center">💻 Code. Create. Innovate. 🚀</h2>
 
+<h2 align="center">💻 Coding in Progress</h2>
+
 <p align="center">
-  <img src="./coding-boy.gif"
-       alt="Boy coding at a computer"
-       width="400">
+  <img src="./coding-boy.png" width="750" alt="Developer coding on a laptop">
 </p>
-<a href="https://iconscout.com/lottie-animations/coder" class="text-underline font-size-sm" target="_blank">Coder doing coding on laptop</a> by <a href="https://iconscout.com/contributors/vector-stall" class="text-underline font-size-sm">Vector Stall</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
----
 
 ## 🏆 Achievements
 
