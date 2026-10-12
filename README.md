@@ -53,6 +53,20 @@ problem solving, and real-world projects.
   <img src="./coding-boy.gif"
        alt="Developer coding on a laptop"
        width="750">
+
+  ---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/YOUR-USERNAME/Parthapratim-webdevE/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
+
+---
 </p>
 name: Generate Contribution Snake
 
