@@ -140,10 +140,6 @@ Available as github action. It can automatically generate a new image each day. 
 </p>
 
 ---
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=torvalds&theme=2077" alt="Stats"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=torvalds&theme=2077" alt="Repos Per Language"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torvalds&theme=2077" alt="Most Commit Language"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torvalds&theme=2077&utcOffset=5.5" alt="Productive Time"/>
 
 ## 🚀 Featured Projects
 
