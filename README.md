@@ -140,6 +140,10 @@ Available as github action. It can automatically generate a new image each day. 
 </p>
 
 ---
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=torvalds&theme=2077" alt="Stats"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=torvalds&theme=2077" alt="Repos Per Language"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torvalds&theme=2077" alt="Most Commit Language"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torvalds&theme=2077&utcOffset=5.5" alt="Productive Time"/>
 
 ## 🚀 Featured Projects
 
@@ -183,8 +187,8 @@ An AI-assisted healthcare platform project.
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
 ---
-
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
