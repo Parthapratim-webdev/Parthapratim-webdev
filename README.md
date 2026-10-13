@@ -59,11 +59,9 @@ problem solving, and real-world projects.
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/YOUR-USERNAME/Parthapratim-webdevE/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake.svg"
+       alt="GitHub Contribution Snake"
+       width="100%">
 </p>
 
 ---
